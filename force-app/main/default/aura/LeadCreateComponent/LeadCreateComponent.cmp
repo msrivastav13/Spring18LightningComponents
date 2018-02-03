@@ -6,6 +6,7 @@
                 <lightning:messages />
                 <lightning:inputField fieldName="Name" />
                 <lightning:inputField fieldName="Company" />
+                <lightning:inputField fieldName="Phone" />
                 <lightning:button  variant="brand" class="btn" type="submit" label="Create new lead" />
             </lightning:recordEditForm>
         </lightning:layoutItem>
